@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/25788e38-1236-452d-8515-5a9b7f47c897)# 医学图像数据集
+# 医学图像数据集
 #1.全身(共3个数据集)
 
 #1.1 Total Segmentator(3D CT,1204例，104类)
